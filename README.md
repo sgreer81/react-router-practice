@@ -3,7 +3,6 @@
 ```sh
 // Install
 npm i
-npm i -g json-server
 
 // Run (separate tabs)
 npm run api
