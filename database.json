@@ -1,0 +1,17 @@
+{
+  "users": [
+    { "id": 1, "name": "Brad", "age": 50, "occupation": "Web Developer" },
+    { "id": 2, "name": "Julie", "occupation": "Web Developer" },
+    { "id": 3, "name": "Sam", "occupation": "Project Manager" },
+    { "id": 4, "name": "Ralf", "occupation": "Lumberjack" }
+  ],
+  "projects": [
+    { "id": 1, "userId": 1, "name": "FanSided" },
+    { "id": 2, "userId": 1, "name": "Questionable" },
+    { "id": 3, "userId": 2, "name": "React" },
+    { "id": 4, "userId": 2, "name": "Facebook" },
+    { "id": 5, "userId": 3, "name": "Google" },
+    { "id": 6, "userId": 3, "name": "Twitter" },
+    { "id": 7, "userId": 4, "name": "Threes" }
+  ]
+}
